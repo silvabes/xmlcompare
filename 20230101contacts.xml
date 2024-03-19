@@ -1,0 +1,14 @@
+<contacts>
+    <contact>
+        <firstname>Stephen</firstname>
+        <middlename>Kevin</middlename>
+        <lastname>Bannon</lastname>
+        <email>skbannon@yahoo.com</email>
+    </contact>
+    <contact>
+        <firstname>Donald</firstname>
+        <middlename>John</middlename>
+        <lastname>Trump</lastname>
+        <email>thepresident@yahoo.com</email>
+    </contact>
+</contacts>
